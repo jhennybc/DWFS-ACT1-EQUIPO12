@@ -1,0 +1,136 @@
+{
+  "seo": {
+    "title": "Catalog | Digital Bookstore",
+    "description": "Browse, filter and discover your next favorite read in the Digital Bookstore catalog.",
+    "keywords": "digital bookstore, book catalog, buy books, e-commerce, reading"
+  },
+
+  "header": {
+    "titleA": "Book",
+    "titleB": "catalog",
+    "subtitle": "Browse, filter and discover your next favorite read",
+
+    "langBarAria": "Language selector",
+    "cartAria": "View shopping cart",
+
+    "switchToEsAria": "Switch language to Spanish",
+    "switchToEnAria": "Switch language to English",
+
+    "langEsAlt": "Spanish",
+    "langEnAlt": "English",
+
+    "langEsShort": "ESP",
+    "langEnShort": "ENG"
+  },
+
+  "aria": {
+    "list": "Book listing",
+    "side": "Catalog sidebar"
+  },
+
+  "search": {
+    "aria": "Search books",
+    "label": "Search by title, author or keywords",
+    "placeholder": "Search by title, author or keywords…",
+    "button": "Search",
+    "buttonAria": "Search books"
+  },
+
+  "table": {
+    "aria": "Book catalog table",
+    "coverAltPrefix": "Cover",
+
+    "th": {
+      "cover": "Cover",
+      "title": "Title",
+      "author": "Author",
+      "genre": "Genre",
+      "rating": "Rating",
+      "price": "Price",
+      "status": "Status",
+      "actions": "Actions"
+    },
+
+    "status": {
+      "available": "Available",
+      "soldOut": "Sold out"
+    },
+
+    "actions": {
+      "details": "View details",
+      "add": "Add to cart"
+    }
+  },
+
+  "filters": {
+    "aria": "Catalog filters",
+
+    "title": "Filters",
+    "subtitle": "Refine by genre, year, price and availability",
+    "clear": "Clear",
+
+    "genres": "Genre",
+    "genresAria": "Filter by genre",
+    "genresAll": "All genres",
+
+    "years": "Year",
+    "yearsAria": "Filter by year",
+    "yearsAll": "All",
+    "before2000": "Before 2000",
+
+    "multiHint": "Ctrl/⌘ to select multiple.",
+    "rangeHint": "You can select ranges.",
+
+    "price": "Price",
+    "priceUpTo": "Up to:",
+    "priceAria": "Price range",
+
+    "stock": {
+      "title": "Availability",
+      "aria": "Availability",
+      "all": "All",
+      "available": "Available",
+      "soldOut": "Not available"
+    },
+
+    "sort": "Sort by",
+    "sortAria": "Sort results",
+    "sortOptions": {
+      "popular": "Popularity",
+      "recent": "Most recent",
+      "priceAsc": "Price: low to high",
+      "priceDesc": "Price: high to low",
+      "rating": "Top rated"
+    },
+    "genreOptions": {
+      "fiction": "Fiction",
+      "fantasy": "Fantasy",
+      "history": "History",
+      "business": "Business",
+      "classics": "Classics"
+    },
+    "yearOptions": {
+      "before2000": "Before 2000"
+    }
+  },
+
+  "recommendations": {
+    "aria": "Personalized recommendations",
+    "title": "Personalized Recommendations",
+    "subtitle": "Based on your reading preferences",
+    "details": "View details",
+    "detailsAria": "View details for {{title}}",
+    "coverAltPrefix": "Cover",
+    "empty": "No recommendations available right now."
+  },
+
+  "panel": {
+    "title": "Catalog",
+    "subtitle": "Paginated results • 6 per page",
+    "actions": {
+      "aria": "Catalog actions",
+      "refresh": "Refresh list",
+      "view": "Change view"
+    }
+  }
+}

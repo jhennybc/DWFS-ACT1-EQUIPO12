@@ -1,0 +1,135 @@
+{
+  "seo": {
+    "title": "Catálogo | Librería dígital",
+    "description": "Explora, filtra y descubre tu próxima lectura favorita en el catálogo de Librería dígital.",
+    "keywords": "librería dígital, catálogo de libros, compra de libros, e-commerce, lectura, Ecuador"
+  },
+
+  "header": {
+    "titleA": "Catálogo de",
+    "titleB": "libros",
+    "subtitle": "Explora, filtra y descubre tu próxima lectura favorita",
+
+    "langBarAria": "Selector de idioma",
+    "cartAria": "Ver carrito de compras",
+
+    "switchToEsAria": "Cambiar idioma a Español",
+    "switchToEnAria": "Cambiar idioma a Inglés",
+
+    "langEsAlt": "Español",
+    "langEnAlt": "English",
+
+    "langEsShort": "ESP",
+    "langEnShort": "ENG"
+  },
+
+  "aria": {
+    "list": "Listado de libros",
+    "side": "Panel lateral del catálogo"
+  },
+
+  "search": {
+    "aria": "Buscar libros",
+    "label": "Buscar por título, autor o palabras clave",
+    "placeholder": "Buscar por título, autor o palabras clave…",
+    "button": "Buscar",
+    "buttonAria": "Buscar libros"
+  },
+
+  "table": {
+    "aria": "Tabla del catálogo de libros",
+    "coverAltPrefix": "Portada",
+    "th": {
+      "cover": "Portada",
+      "title": "Título",
+      "author": "Autor",
+      "genre": "Género",
+      "rating": "Rating",
+      "price": "Precio",
+      "status": "Estado",
+      "actions": "Acciones"
+    },
+
+    "status": {
+      "available": "Disponible",
+      "soldOut": "Agotado"
+    },
+
+    "actions": {
+      "details": "Ver detalles",
+      "add": "Agregar al carrito"
+    }
+  },
+
+  "filters": {
+    "aria": "Filtros del catálogo",
+
+    "title": "Filtros",
+    "subtitle": "Refina por género, año, precio y disponibilidad",
+    "clear": "Limpiar",
+
+    "genres": "Género",
+    "genresAria": "Filtrar por género",
+    "genresAll": "Todos los géneros",
+
+    "years": "Año",
+    "yearsAria": "Filtrar por año",
+    "yearsAll": "Todos",
+    "before2000": "Antes de 2000",
+
+    "multiHint": "Ctrl/⌘ para seleccionar varios.",
+    "rangeHint": "Puedes seleccionar rangos.",
+
+    "price": "Precio",
+    "priceUpTo": "Hasta:",
+    "priceAria": "Rango de precio",
+
+    "stock": {
+      "title": "Disponibilidad",
+      "aria": "Disponibilidad",
+      "all": "Todos",
+      "available": "Disponible",
+      "soldOut": "No disp."
+    },
+
+    "sort": "Ordenar por",
+    "sortAria": "Ordenar resultados",
+    "sortOptions": {
+      "popular": "Popularidad",
+      "recent": "Más recientes",
+      "priceAsc": "Precio: menor a mayor",
+      "priceDesc": "Precio: mayor a menor",
+      "rating": "Mejor calificados"
+    },
+    "genreOptions": {
+      "fiction": "Ficción",
+      "fantasy": "Fantasía",
+      "history": "Historia",
+      "business": "Negocios",
+      "classics": "Clásicos"
+    },
+    "yearOptions": {
+      "before2000": "Antes de 2000"
+    }
+  },
+
+  "recommendations": {
+    "aria": "Recomendaciones personalizadas",
+    "title": "Recomendaciones Personalizadas",
+    "subtitle": "Basadas en tus preferencias de lectura",
+    "details": "Ver detalles",
+    "detailsAria": "Ver detalles de {{title}}",
+    "coverAltPrefix": "Portada",
+    "empty": "No hay recomendaciones disponibles por ahora."
+  },
+
+  "panel": {
+    "title": "Catálogo",
+    "subtitle": "Resultados paginados • 6 por página",
+    "actions": {
+      "aria": "Acciones del catálogo",
+      "refresh": "Actualizar listado",
+      "view": "Cambiar vista"
+    }
+  }
+}

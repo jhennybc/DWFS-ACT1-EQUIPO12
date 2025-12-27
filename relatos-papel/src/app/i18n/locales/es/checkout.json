@@ -1,0 +1,80 @@
+{
+  "seo": {
+    "title": "Pago | Librería dígital",
+    "description": "Completa tu pago de forma segura y finaliza tu compra.",
+    "keywords": "pago, checkout, libros, carrito, Ecuador"
+  },
+  "header": {
+    "title": "Pago de",
+    "accent": "compra",
+    "subtitle": "Selecciona un método de pago, revisa tu resumen y confirma tu pedido."
+  },
+  "banner": {
+    "title": "Pago seguro",
+    "desc": "Tus datos están protegidos con cifrado y verificación."
+  },
+  "methods": {
+    "title": "Métodos de pago",
+    "sub": "Elige cómo quieres pagar"
+  },
+  "method": {
+    "card": {
+      "name": "Tarjeta",
+      "meta": "Crédito o débito • Visa/Mastercard"
+    },
+    "paypal": {
+      "name": "PayPal",
+      "meta": "Paga con tu cuenta PayPal"
+    },
+    "bank": {
+      "name": "Transferencia",
+      "meta": "Pago por transferencia bancaria"
+    }
+  },
+  "cardForm": {
+    "title": "Datos de la tarjeta",
+    "sub": "Ingresa los datos tal como aparecen en tu tarjeta",
+    "labels": {
+      "name": "Nombre en la tarjeta",
+      "number": "Número de tarjeta",
+      "exp": "Expiración",
+      "cvc": "CVC"
+    },
+    "placeholders": {
+      "name": "Nombre y apellido",
+      "number": "1234 5678 9012 3456",
+      "exp": "MM/AA",
+      "cvc": "123"
+    },
+    "note": "No almacenamos tu CVC. Solo se usa para validar el pago."
+  },
+  "summary": {
+    "title": "Resumen",
+    "sub": "Detalle de tu pedido",
+    "subtotal": "Subtotal",
+    "shipping": "Envío",
+    "taxes": "Impuestos",
+    "total": "Total",
+    "perks": [
+      "Envío estimado 24–48h",
+      "Soporte 24/7",
+      "Devoluciones 7 días"
+    ]
+  },
+  "actions": {
+    "pay": "Pagar ahora",
+    "back": "Volver al carrito",
+    "continue": "Seguir comprando"
+  },
+  "confirm": {
+    "title": "Pago confirmado",
+    "text": "Tu pedido ha sido procesado correctamente.",
+    "muted": "Te enviaremos un correo con los detalles.",
+    "orderLabel": "N° de pedido",
+    "statusLabel": "Estado",
+    "statusOk": "Aprobado",
+    "methodLabel": "Método",
+    "dateLabel": "Fecha",
+    "secureNote": "Conexión segura • Información protegida"
+  }
+}

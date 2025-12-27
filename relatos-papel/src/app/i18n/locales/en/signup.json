@@ -1,0 +1,73 @@
+{
+    "form": {
+        "aria": "Sign up form",
+        "errors": {
+            "generic": "An error occurred. Please try again."
+        },
+        "email": {
+            "label": "Email address",
+            "placeholder": "Enter email address",
+            "errors": {
+                "required": "Email is required.",
+                "invalid": "Please enter a valid email address.",
+                "taken": "This email is already registered."
+            }
+        },
+        "name": {
+            "label": "Full name",
+            "placeholder": "Enter full name",
+            "errors": {
+                "required": "Name is required.",
+                "min": "Name must be at least 3 characters long.",
+                "max": "Name must not exceed 80 characters."
+            }
+        },
+        "password": {
+            "label": "Password",
+            "placeholder": "Create password",
+            "hint": "Use at least 8 characters.",
+            "show": "Show password",
+            "hide": "Hide password",
+            "errors": {
+                "required": "Password is required.",
+                "min": "Password must be at least 8 characters long.",
+                "max": "Password must not exceed 64 characters.",
+                "upper": "Must include at least one uppercase letter.",
+                "lower": "Must include at least one lowercase letter.",
+                "number": "Must include at least one number."
+            }
+        },
+        "confirmPassword": {
+            "label": "Confirm password",
+            "placeholder": "Repeat your password",
+            "show": "Show confirmation",
+            "hide": "Hide confirmation",
+            "errors": {
+                "required": "Please confirm your password.",
+                "match": "Passwords do not match."
+            }
+        },
+        "terms": {
+            "label": "I accept the terms and conditions.",
+            "errors": {
+                "required": "You must accept the terms and conditions."
+            }
+        },
+        "submit": "Create account",
+        "footer": {
+            "question": "Already have an account?",
+            "link": "Sign in"
+        }
+    },
+    "layout": {
+        "skip": "Skip to form",
+        "aria": "Account registration",
+        "title": "Create account",
+        "or": "Or"
+    },
+    "seo": {
+        "title": "Create account | Digital Bookstore",
+        "description": "Create an account on the Digital Bookstore platform to buy books and manage your orders.",
+        "keywords": "Digital bookstore, sign up, create account, online bookstore, buy books, book e-commerce, Ecuador"
+    }
+}

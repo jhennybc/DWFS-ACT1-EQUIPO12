@@ -1,0 +1,29 @@
+{
+  "seo": {
+    "title": "Recuperación de contraseña (Paso 1) | Librería dígital",
+    "description": "Proceso de recuperación de contraseña en Librería dígital.",
+    "keywords": "Librería dígital, recuperación de contraseña, restablecer contraseña, Ecuador"
+  },
+  "layout": {
+    "skip": "Saltar al formulario",
+    "aria": "Recuperación de contraseña",
+    "title": "Recuperación de contraseña"
+  },
+  "form": {
+    "aria": "Formulario de recuperación de contraseña",
+    "email": {
+      "label": "Correo electrónico",
+      "placeholder": "Ingresar correo electrónico",
+      "error": "Por favor, ingresa un correo válido."
+    },
+    "submit": "Solicitar",
+    "footer": {
+      "question": "¿Ya tienes una cuenta?",
+      "link": "Iniciar sesión"
+    },
+    "status": {
+      "invalid": "Revisa el correo ingresado.",
+      "ok": "Solicitud enviada. Continuando al siguiente paso…"
+    }
+  }
+}

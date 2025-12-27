@@ -1,0 +1,52 @@
+{
+  "seo": {
+    "title": "Carrito | Librería dígital",
+    "description": "Revisa tus libros seleccionados, ajusta cantidades y continúa con el pago.",
+    "keywords": "carrito, compra de libros, checkout, librería online, Ecuador"
+  },
+  "header": {
+    "title": "Carrito de",
+    "titleAccent": "compras",
+    "subtitle": "Revisa tus libros, ajusta cantidades y continúa con el pago",
+    "backToCatalog": "Volver al catálogo",
+    "cartAria": "Ver carrito de compras",
+    "langEs": "Cambiar idioma a Español",
+    "langEn": "Cambiar idioma a Inglés"
+  },
+  "list": {
+    "title": "Libros en tu carrito",
+    "subtitle": "Productos • Actualiza cantidades"
+  },
+  "item": {
+    "remove": "Eliminar producto",
+    "unit": "Unitario"
+  },
+  "qty": {
+    "aria": "Cantidad",
+    "dec": "Disminuir cantidad",
+    "inc": "Aumentar cantidad"
+  },
+  "checkout": {
+    "title": "Resumen de pago",
+    "subtitle": "Aplica cupón y revisa totales",
+    "couponPlaceholder": "Código de cupón",
+    "apply": "Aplicar",
+    "applied": "Cupón aplicado",
+    "removeCoupon": "Quitar cupón",
+    "subtotal": "Subtotal",
+    "discount": "Descuento",
+    "total": "Total",
+    "pay": "Pagar ahora",
+    "availableTitle": "Métodos disponibles"
+  },
+  "help": {
+    "title": "¿Necesitas ayuda?",
+    "subtitle": "Soporte y seguimiento de pedidos",
+    "contact": "Contactar soporte",
+    "continue": "Seguir comprando"
+  },
+  "empty": {
+    "title": "Tu carrito está vacío",
+    "subtitle": "Ve al catálogo y agrega tus libros favoritos."
+  }
+}

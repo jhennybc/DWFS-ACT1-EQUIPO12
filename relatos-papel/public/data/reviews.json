@@ -1,0 +1,32 @@
+[
+  {
+    "id": "r1",
+    "bookId": "b016",
+    "initial": "A",
+    "name": "Ana P.",
+    "rating": 4.0,
+    "when": {
+      "es": "Hace 2 días",
+      "en": "2 days ago"
+    },
+    "text": {
+      "es": "Me gustó el ritmo y cómo mantiene la atención. Lo recomiendo si te gustan historias con giros.",
+      "en": "Great pace and keeps your attention. Recommended if you like twists."
+    }
+  },
+  {
+    "id": "r2",
+    "bookId": "b016",
+    "initial": "J",
+    "name": "Jorge M.",
+    "rating": 3.5,
+    "when": {
+      "es": "Hace 1 semana",
+      "en": "1 week ago"
+    },
+    "text": {
+      "es": "Buen contenido, aunque algunos capítulos se sienten más teóricos. Aún así, aporta ideas útiles.",
+      "en": "Good content, although some chapters feel more theoretical. Still, it provides useful ideas."
+    }
+  }
+]

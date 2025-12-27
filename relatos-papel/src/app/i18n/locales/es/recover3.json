@@ -1,0 +1,36 @@
+{
+  "seo": {
+    "title": "Recuperación de contraseña (Paso 3) | Librería dígital",
+    "description": "Proceso de recuperación de contraseña en Librería dígital.",
+    "keywords": "recuperación de contraseña, nueva contraseña, Librería dígital"
+  },
+  "layout": {
+    "skip": "Saltar al formulario",
+    "aria": "Inicio de sesión",
+    "title": "Recuperación de contraseña"
+  },
+  "form": {
+    "aria": "Formulario de recuperación de contraseña",
+    "newPassword": {
+      "label": "Nueva contraseña",
+      "placeholder": "Ingresa tu nueva contraseña",
+      "error": "La contraseña debe tener mínimo 8 caracteres."
+    },
+    "confirmPassword": {
+      "label": "Confirmar contraseña",
+      "placeholder": "Confirma tu contraseña",
+      "error": "Las contraseñas no coinciden."
+    },
+    "show": "Mostrar contraseña",
+    "hide": "Ocultar contraseña",
+    "submit": "Actualizar",
+    "footer": {
+      "question": "¿Ya tienes una cuenta?",
+      "link": "Iniciar sesión"
+    },
+    "status": {
+      "invalid": "Revisa los campos e inténtalo de nuevo.",
+      "ok": "Contraseña actualizada. Redirigiendo al inicio de sesión…"
+    }
+  }
+}

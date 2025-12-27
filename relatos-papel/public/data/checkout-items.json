@@ -1,0 +1,26 @@
+[
+  {
+    "id": "b016",
+    "title": "Asesinato en el Orient Express",
+    "price": 37.21,
+    "qty": 1,
+    "cover": "/assets/img/books/book-el-principito.webp",
+    "href": "asesinato-en-el-orient-express"
+  },
+  {
+    "id": "b017",
+    "title": "El amor en los tiempos del cólera",
+    "price": 37.26,
+    "qty": 2,
+    "cover": "/assets/img/books/book-el-principito.webp",
+    "href": "el-amor-en-los-tiempos-del-colera"
+  },
+  {
+    "id": "b005",
+    "title": "El Principito",
+    "price": 15.5,
+    "qty": 1,
+    "cover": "/assets/img/books/book-el-principito.webp",
+    "href": "el-principito"
+  }
+]

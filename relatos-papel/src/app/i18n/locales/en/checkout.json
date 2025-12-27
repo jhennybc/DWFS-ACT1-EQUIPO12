@@ -1,0 +1,80 @@
+{
+  "seo": {
+    "title": "Checkout | Digital Bookstore",
+    "description": "Pay securely and complete your order.",
+    "keywords": "checkout, payment, books, cart"
+  },
+  "header": {
+    "title": "Order",
+    "accent": "payment",
+    "subtitle": "Choose a payment method, review your summary, and confirm your order."
+  },
+  "banner": {
+    "title": "Secure payment",
+    "desc": "Your data is protected with encryption and verification."
+  },
+  "methods": {
+    "title": "Payment methods",
+    "sub": "Pick how you want to pay"
+  },
+  "method": {
+    "card": {
+      "name": "Card",
+      "meta": "Credit or debit • Visa/Mastercard"
+    },
+    "paypal": {
+      "name": "PayPal",
+      "meta": "Pay with your PayPal account"
+    },
+    "bank": {
+      "name": "Bank transfer",
+      "meta": "Pay via bank transfer"
+    }
+  },
+  "cardForm": {
+    "title": "Card details",
+    "sub": "Enter the details exactly as shown on your card",
+    "labels": {
+      "name": "Name on card",
+      "number": "Card number",
+      "exp": "Expiry",
+      "cvc": "CVC"
+    },
+    "placeholders": {
+      "name": "Full name",
+      "number": "1234 5678 9012 3456",
+      "exp": "MM/YY",
+      "cvc": "123"
+    },
+    "note": "We don’t store your CVC. It’s only used to validate the payment."
+  },
+  "summary": {
+    "title": "Summary",
+    "sub": "Your order details",
+    "subtotal": "Subtotal",
+    "shipping": "Shipping",
+    "taxes": "Taxes",
+    "total": "Total",
+    "perks": [
+      "Estimated shipping 24–48h",
+      "24/7 support",
+      "7-day returns"
+    ]
+  },
+  "actions": {
+    "pay": "Pay now",
+    "back": "Back to cart",
+    "continue": "Continue shopping"
+  },
+  "confirm": {
+    "title": "Payment confirmed",
+    "text": "Your order was processed successfully.",
+    "muted": "We’ll email you the details.",
+    "orderLabel": "Order ID",
+    "statusLabel": "Status",
+    "statusOk": "Approved",
+    "methodLabel": "Method",
+    "dateLabel": "Date",
+    "secureNote": "Secure connection • Protected information"
+  }
+}

@@ -1,0 +1,53 @@
+{
+    "seo": {
+        "title": "Book | Digital Bookstore",
+        "titleSuffix": "Digital Bookstore",
+        "description": "Book information, synopsis, reviews, and purchase options.",
+        "keywords": "books, synopsis, reviews, buy books, Ecuador"
+    },
+    "ui": {
+        "loading": "Loading book…",
+        "notFound": "Book not found.",
+        "bookInfoAria": "Book information"
+    },
+    "header": {
+        "back": "Catalog",
+        "backAria": "Back to catalog",
+        "actionsAria": "Actions and language selector",
+        "cartAria": "View shopping cart",
+        "langEs": "Spanish",
+        "langEn": "English",
+        "langEsAria": "Switch language to Spanish",
+        "langEnAria": "Switch language to English",
+        "title": {
+            "prefix": "Book",
+            "accent": "details"
+        },
+        "subtitle": "Learn the story, review ratings, and add your copy to the cart"
+    },
+    "detail": {
+        "headTitle": "Book information",
+        "coverFallback": "Cover",
+        "labels": {
+            "genre": "Genre",
+            "year": "Year",
+            "rating": "Rating",
+            "status": "Status"
+        },
+        "summaryTitle": "Summary",
+        "buyBoxAria": "Purchase and quantity",
+        "priceHint": "Taxes included • Estimated shipping 24–48h",
+        "qty": {
+            "groupAria": "Select quantity",
+            "decrease": "Decrease quantity",
+            "increase": "Increase quantity",
+            "inputAria": "Quantity"
+        },
+        "addToCart": "Add to cart",
+        "note": "Tip: you can read reviews below and leave yours.",
+        "status": {
+            "available": "Available",
+            "soldOut": "Not available"
+        }
+    }
+}

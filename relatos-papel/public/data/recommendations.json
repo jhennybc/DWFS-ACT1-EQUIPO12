@@ -1,0 +1,78 @@
+[
+  {
+    "id": "rec-01",
+    "title": { "es": "La Sombra del Viento", "en": "The Shadow of the Wind" },
+    "author": "Carlos Ruiz Zafón",
+    "genre": "Ficción",
+    "year": 2001,
+    "rating": 4.8,
+    "price": 27.99,
+    "inStock": true,
+    "img": "/assets/img/books/book-la-sombra-del-viento.webp",
+    "imgAlt": {
+      "es": "Portada La Sombra del Viento",
+      "en": "Cover The Shadow of the Wind"
+    },
+    "href": "la-sombra-del-viento",
+    "desc": "Una novela envolvente que combina misterio, amor y literatura en la Barcelona de la posguerra.",
+    "summaryEs": "Una historia de misterio literario ambientada en Barcelona, donde los libros y los secretos marcan el destino de sus personajes.",
+    "summaryEn": "A literary mystery set in post-war Barcelona, where books and secrets shape the fate of its characters."
+  },
+  {
+    "id": "rec-02",
+    "title": { "es": "El nombre del viento", "en": "The Name of the Wind" },
+    "author": "Patrick Rothfuss",
+    "genre": "Fantasía",
+    "year": 2007,
+    "rating": 4.9,
+    "price": 29.99,
+    "inStock": true,
+    "img": "/assets/img/books/book-el-nombre-del-viento.webp",
+    "imgAlt": {
+      "es": "Portada El nombre del viento",
+      "en": "Cover The Name of the Wind"
+    },
+    "href": "el-nombre-del-viento",
+    "desc": "La historia de Kvothe, un joven prodigio que narra su vida entre la magia, la música y la leyenda.",
+    "summaryEs": "Una épica historia de fantasía sobre el ascenso de un héroe contado por él mismo.",
+    "summaryEn": "An epic fantasy tale about the rise of a legendary hero, told in his own voice."
+  },
+  {
+    "id": "rec-03",
+    "title": { "es": "El Alquimista", "en": "The Alchemist" },
+    "author": "Paulo Coelho",
+    "genre": "Clásicos",
+    "year": 1988,
+    "rating": 4.6,
+    "price": 20.99,
+    "inStock": true,
+    "img": "/assets/img/books/book-el-alquimista.webp",
+    "imgAlt": {
+      "es": "Portada El Alquimista",
+      "en": "Cover The Alchemist"
+    },
+    "href": "el-alquimista",
+    "desc": "Una fábula inspiradora sobre seguir los sueños y escuchar al corazón.",
+    "summaryEs": "Un viaje espiritual que invita a descubrir el propósito personal y la importancia de los sueños.",
+    "summaryEn": "An inspiring fable about following your dreams and listening to your heart."
+  },
+  {
+    "id": "rec-04",
+    "title": { "es": "Pensar rápido, pensar despacio", "en": "Thinking, Fast and Slow" },
+    "author": "Daniel Kahneman",
+    "genre": "Negocios",
+    "year": 2011,
+    "rating": 4.7,
+    "price": 34.5,
+    "inStock": true,
+    "img": "/assets/img/books/book-pensar-rapido-pensar-despacio.webp",
+    "imgAlt": {
+      "es": "Portada Pensar rápido, pensar despacio",
+      "en": "Cover Thinking, Fast and Slow"
+    },
+    "href": "pensar-rapido-pensar-despacio",
+    "desc": "Un análisis profundo sobre cómo funciona la mente humana al tomar decisiones.",
+    "summaryEs": "Explora los dos sistemas de pensamiento que influyen en nuestras decisiones diarias.",
+    "summaryEn": "Explores the two systems of thought that drive the way we think and decide."
+  }
+]

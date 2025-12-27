@@ -1,0 +1,29 @@
+{
+  "seo": {
+    "title": "Recuperación de contraseña (Paso 2) | Librería dígital",
+    "description": "Verifica el código enviado a tu correo para continuar con la recuperación de contraseña.",
+    "keywords": "recuperación de contraseña, código de verificación, Librería dígital"
+  },
+  "layout": {
+    "skip": "Saltar al formulario",
+    "aria": "Recuperación de contraseña",
+    "title": "Recuperación de contraseña"
+  },
+  "form": {
+    "aria": "Formulario de verificación de código",
+    "code": {
+      "label": "Código de verificación",
+      "placeholder": "••••••",
+      "error": "Ingresa un código válido de 6 dígitos."
+    },
+    "submit": "Verificar",
+    "footer": {
+      "question": "¿Ya tienes una cuenta?",
+      "link": "Iniciar sesión"
+    },
+    "status": {
+      "invalid": "El código ingresado no es válido.",
+      "ok": "Código verificado. Continuando…"
+    }
+  }
+}

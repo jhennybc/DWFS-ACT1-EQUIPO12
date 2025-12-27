@@ -1,0 +1,22 @@
+{
+  "brandAria": "Book Lovers brand",
+  "brandTop": "Book",
+  "brandBottom": "LOVERS",
+  "navAria": "Primary actions",
+  "signIn": "Sign in",
+  "signUp": "Create account",
+  "heroAria": "Platform introduction",
+  "kicker": "Digital bookstore • Fast and safe experience",
+  "title": { "pre": "Explore amazing reads with", "accent": "Book Lovers" },
+  "subtitle": "Modern catalog, personalized recommendations, and secure checkout. All in a smooth, elegant experience.",
+  "benefitsAria": "Benefits",
+  "features": { "fast": "Fast", "accessible": "Accessible", "secure": "Secure", "easyBuy": "Easy checkout" },
+  "actionsAria": "Actions",
+  "goCatalog": "Go to catalog",
+  "seo": {
+    "title": "Home | Digital Bookstore",
+    "description": "Main page of the Digital Bookstore platform.",
+    "keywords": "digital bookstore, buy books, online library, reading"
+  },
+  "redirecting": "Redirecting to the catalog in {{seconds}} seconds…"
+}

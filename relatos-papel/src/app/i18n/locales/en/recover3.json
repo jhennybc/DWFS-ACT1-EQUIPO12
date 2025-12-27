@@ -1,0 +1,36 @@
+{
+  "seo": {
+    "title": "Password recovery (Step 3) | Digital Bookstore",
+    "description": "Password recovery process in the Digital Bookstore platform.",
+    "keywords": "password recovery, new password, digital bookstore"
+  },
+  "layout": {
+    "skip": "Skip to form",
+    "aria": "Sign in",
+    "title": "Password recovery"
+  },
+  "form": {
+    "aria": "Password recovery form",
+    "newPassword": {
+      "label": "New password",
+      "placeholder": "Enter your new password",
+      "error": "Password must be at least 8 characters."
+    },
+    "confirmPassword": {
+      "label": "Confirm password",
+      "placeholder": "Confirm your password",
+      "error": "Passwords do not match."
+    },
+    "show": "Show password",
+    "hide": "Hide password",
+    "submit": "Update",
+    "footer": {
+      "question": "Already have an account?",
+      "link": "Sign in"
+    },
+    "status": {
+      "invalid": "Please check the fields and try again.",
+      "ok": "Password updated. Redirecting to sign in…"
+    }
+  }
+}

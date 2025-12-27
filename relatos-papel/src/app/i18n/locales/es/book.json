@@ -1,0 +1,53 @@
+{
+    "seo": {
+        "title": "Libro | Librería dígital",
+        "titleSuffix": "Librería dígital",
+        "description": "Información del libro, sinopsis, reseñas y opciones de compra.",
+        "keywords": "libros, sinopsis, reseñas, compra de libros, Ecuador"
+    },
+    "ui": {
+        "loading": "Cargando libro…",
+        "notFound": "Libro no encontrado.",
+        "bookInfoAria": "Información del libro"
+    },
+    "header": {
+        "back": "Catálogo",
+        "backAria": "Volver al catálogo",
+        "actionsAria": "Acciones y selector de idioma",
+        "cartAria": "Ver carrito de compras",
+        "langEs": "Español",
+        "langEn": "Inglés",
+        "langEsAria": "Cambiar idioma a Español",
+        "langEnAria": "Cambiar idioma a Inglés",
+        "title": {
+            "prefix": "Detalle de",
+            "accent": "libro"
+        },
+        "subtitle": "Conoce la historia, revisa reseñas y agrega tu copia al carrito"
+    },
+    "detail": {
+        "headTitle": "Información del libro",
+        "coverFallback": "Portada",
+        "labels": {
+            "genre": "Género",
+            "year": "Año",
+            "rating": "Rating",
+            "status": "Estado"
+        },
+        "summaryTitle": "Resumen",
+        "buyBoxAria": "Compra y cantidad",
+        "priceHint": "Impuestos incluidos • Envío estimado 24–48h",
+        "qty": {
+            "groupAria": "Seleccionar cantidad",
+            "decrease": "Disminuir cantidad",
+            "increase": "Aumentar cantidad",
+            "inputAria": "Cantidad"
+        },
+        "addToCart": "Agregar al carrito",
+        "note": "Tip: puedes revisar reseñas abajo y dejar la tuya.",
+        "status": {
+            "available": "Disponible",
+            "soldOut": "Agotado"
+        }
+    }
+}

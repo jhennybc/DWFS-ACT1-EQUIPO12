@@ -1,0 +1,22 @@
+{
+  "brandAria": "Marca Book Lovers",
+  "brandTop": "Book",
+  "brandBottom": "LOVERS",
+  "navAria": "Acciones principales",
+  "signIn": "Iniciar sesión",
+  "signUp": "Crear cuenta",
+  "heroAria": "Introducción a la plataforma",
+  "kicker": "Librería digital • Experiencia rápida y segura",
+  "title": { "pre": "Explora lecturas increíbles con", "accent": "Book Lovers" },
+  "subtitle": "Catálogo moderno, recomendaciones personalizadas y compra segura. Todo en una experiencia fluida y elegante.",
+  "benefitsAria": "Beneficios",
+  "features": { "fast": "Rápido", "accessible": "Accesible", "secure": "Seguro", "easyBuy": "Compra fácil" },
+  "actionsAria": "Acciones",
+  "goCatalog": "Ir al catálogo",
+  "seo": {
+    "title": "Inicio | Librería dígital",
+    "description": "Página principal de la plataforma Librería dígital.",
+    "keywords": "Librería dígital, compra de libros, e-commerce, lectura, Ecuador"
+  },
+  "redirecting": "Redirigiendo al catálogo en {{seconds}} segundos…"
+}

@@ -1,0 +1,18 @@
+[
+  {
+    "id": "c1",
+    "title": "El Principito",
+    "author": "Antoine de Saint-Exupéry",
+    "price": 15.5,
+    "qty": 1,
+    "cover": "/assets/img/books/book-el-principito.webp"
+  },
+  {
+    "id": "c2",
+    "title": "La Sombra del Viento",
+    "author": "Carlos Ruiz Zafón",
+    "price": 27.99,
+    "qty": 2,
+    "cover": "/assets/img/books/book-el-principito.webp"
+  }
+]

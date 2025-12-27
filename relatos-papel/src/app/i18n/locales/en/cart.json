@@ -1,0 +1,52 @@
+{
+  "seo": {
+    "title": "Cart | Digital Bookstore",
+    "description": "Review your selected books, adjust quantities, and proceed to checkout.",
+    "keywords": "cart, book purchase, checkout, online bookstore"
+  },
+  "header": {
+    "title": "Shopping",
+    "titleAccent": "cart",
+    "subtitle": "Review your books, adjust quantities, and proceed to checkout",
+    "backToCatalog": "Back to catalog",
+    "cartAria": "View shopping cart",
+    "langEs": "Switch language to Spanish",
+    "langEn": "Switch language to English"
+  },
+  "list": {
+    "title": "Books in your cart",
+    "subtitle": "Items • Update quantities"
+  },
+  "item": {
+    "remove": "Remove item",
+    "unit": "Unit price"
+  },
+  "qty": {
+    "aria": "Quantity",
+    "dec": "Decrease quantity",
+    "inc": "Increase quantity"
+  },
+  "checkout": {
+    "title": "Payment summary",
+    "subtitle": "Apply coupon and review totals",
+    "couponPlaceholder": "Coupon code",
+    "apply": "Apply",
+    "applied": "Coupon applied",
+    "removeCoupon": "Remove coupon",
+    "subtotal": "Subtotal",
+    "discount": "Discount",
+    "total": "Total",
+    "pay": "Pay now",
+    "availableTitle": "Available methods"
+  },
+  "help": {
+    "title": "Need help?",
+    "subtitle": "Support and order tracking",
+    "contact": "Contact support",
+    "continue": "Keep shopping"
+  },
+  "empty": {
+    "title": "Your cart is empty",
+    "subtitle": "Go to the catalog and add your favorite books."
+  }
+}

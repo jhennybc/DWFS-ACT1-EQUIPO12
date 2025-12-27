@@ -1,0 +1,32 @@
+{
+  "seo": {
+    "title": "Iniciar sesión | Librería dígital",
+    "description": "Inicia sesión en Librería dígital para comprar libros, guardar favoritos y gestionar tus pedidos de forma segura.",
+    "keywords": "Librería dígital, iniciar sesión, login, librería online, e-commerce de libros, Ecuador"
+  },
+  "layout": {
+    "skip": "Saltar al formulario",
+    "aria": "Inicio de sesión",
+    "title": "Explora los libros con nosotros",
+    "or": "O"
+  },
+  "form": {
+    "aria": "Formulario de inicio de sesión",
+    "email": {
+      "label": "Correo electrónico",
+      "placeholder": "Ingresar correo electrónico"
+    },
+    "password": {
+      "label": "Contraseña",
+      "placeholder": "Ingresar contraseña",
+      "show": "Mostrar contraseña",
+      "hide": "Ocultar contraseña"
+    },
+    "forgot": "¿Olvidaste la contraseña?",
+    "submit": "Iniciar sesión",
+    "footer": {
+      "question": "¿No tienes una cuenta?",
+      "link": "Regístrate"
+    }
+  }
+}

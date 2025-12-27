@@ -1,0 +1,29 @@
+{
+  "seo": {
+    "title": "Password recovery (Step 2) | Digital Bookstore",
+    "description": "Verify the code sent to your email to continue the password recovery process.",
+    "keywords": "password recovery, verification code, digital bookstore"
+  },
+  "layout": {
+    "skip": "Skip to form",
+    "aria": "Password recovery",
+    "title": "Password recovery"
+  },
+  "form": {
+    "aria": "Code verification form",
+    "code": {
+      "label": "Verification code",
+      "placeholder": "••••••",
+      "error": "Enter a valid 6-digit code."
+    },
+    "submit": "Verify",
+    "footer": {
+      "question": "Already have an account?",
+      "link": "Sign in"
+    },
+    "status": {
+      "invalid": "The code entered is not valid.",
+      "ok": "Code verified. Continuing…"
+    }
+  }
+}

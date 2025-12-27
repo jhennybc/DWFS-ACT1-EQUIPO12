@@ -1,0 +1,32 @@
+{
+  "seo": {
+    "title": "Sign in | Digital Bookstore",
+    "description": "Sign in to the Digital Bookstore to buy books, save favorites and manage your orders securely.",
+    "keywords": "digital bookstore, sign in, login, online bookstore, book e-commerce"
+  },
+  "layout": {
+    "skip": "Skip to form",
+    "aria": "Sign in",
+    "title": "Explore books with us",
+    "or": "OR"
+  },
+  "form": {
+    "aria": "Sign in form",
+    "email": {
+      "label": "Email address",
+      "placeholder": "Enter your email address"
+    },
+    "password": {
+      "label": "Password",
+      "placeholder": "Enter your password",
+      "show": "Show password",
+      "hide": "Hide password"
+    },
+    "forgot": "Forgot your password?",
+    "submit": "Sign in",
+    "footer": {
+      "question": "Don’t have an account?",
+      "link": "Sign up"
+    }
+  }
+}

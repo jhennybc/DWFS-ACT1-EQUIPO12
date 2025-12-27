@@ -1,0 +1,29 @@
+{
+  "seo": {
+    "title": "Password recovery (Step 1) | Digital Bookstore",
+    "description": "Password recovery process in the Digital Bookstore platform.",
+    "keywords": "password recovery, reset password, digital bookstore"
+  },
+  "layout": {
+    "skip": "Skip to form",
+    "aria": "Password recovery",
+    "title": "Password recovery"
+  },
+  "form": {
+    "aria": "Password recovery form",
+    "email": {
+      "label": "Email address",
+      "placeholder": "Enter your email address",
+      "error": "Please enter a valid email."
+    },
+    "submit": "Request",
+    "footer": {
+      "question": "Already have an account?",
+      "link": "Sign in"
+    },
+    "status": {
+      "invalid": "Please check the email you entered.",
+      "ok": "Request sent. Continuing to the next step…"
+    }
+  }
+}
